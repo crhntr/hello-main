@@ -1,3 +1,3 @@
-module github.com/crhntr/hello_main
+module github.com/crhntr/hello-main
 
 go 1.13
